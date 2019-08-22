@@ -21,6 +21,6 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME="raphael" \
     TARGET_DEVICE="raphael"
 
-    BUILD_FINGERPRINT := "Xiaomi/raphael/raphael:9/PKQ1.181121.001/V10.3.12.0.PFKCNXM:user/release-keys"
+    BUILD_FINGERPRINT := "google/walleye/walleye:9/PQ2A.190405.003/5310204:user/release-keys"
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi

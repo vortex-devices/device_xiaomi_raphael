@@ -1,0 +1,13 @@
+[
+  {
+    "repository":  "vortex-devices/vendor_xiaomi_raphael",
+    "target_path": "vendor/xiaomi/raphael",
+    "branch":      "pie"
+  },
+  {
+    "remote":      "github",
+    "repository":  "vortex-devices/kernel_xiaomi_sm8150",
+    "target_path": "kernel/xiaomi/raphael",
+    "branch":      "pie"
+  }
+]
